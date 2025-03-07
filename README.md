@@ -82,11 +82,11 @@ jupyter notebook 01_Strategy_Scalping_Modified_I.ipynb
 
 ## Key Insights from the Strategy
 
-- **International Forex Markets Are Volatile**: The EUR/USD pair reacts differently to economic events, highlighting the need for adaptive strategies.
-- **Technical Indicators Can Improve Trading**: EMA crossovers and Bollinger Bands effectively identified entry and exit points.
-- **Backtesting is Essential**: By testing different parameters, we can refine strategies before live deployment.
-- **Algorithmic Trading Feasibility**: The model shows potential for automation in forex trading strategies.
-- **Risk Management Works**: The built-in **stop loss and take profit** system ensures controlled risk exposure.
+- **International Forex Markets Are Volatile**: Learned how the EUR/USD pair reacts VERYYYY differently to economic events.
+- **Technical Indicators Can Improve Trading**: EMA crossovers and Bollinger Bands effectively helped me identify entry and exit points.
+- **Algorithmic Trading Feasibility**: The model shows potential for automation in forex trading strategies. And I can see myself in the future improving it and adding it to my portoflio. 
+- **Risk Management Works**: The built-in **stop loss and take profit** system ensures controlled risk exposure, and takes all the emotion out of trading. Doesn't allow me to jump into any trades arbitrarily.
+- Also showed me how much I love backtesting for scenarios such as these. 
 
 ---
 
